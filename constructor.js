@@ -189,7 +189,7 @@
         
         playlist.add(heyJude);
         playlist.add(jaded);
-        
+         
         console.log(playlist.play());
         console.log(playlist.next()); 
         console.log(playlist.next()); 
